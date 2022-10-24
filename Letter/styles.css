@@ -1,0 +1,10 @@
+.container{
+    width: 1000px;
+    margin: auto;
+}
+.sender-column{
+width: 300px;
+margin: 0;
+position: relative;
+left: 50vw;
+}
